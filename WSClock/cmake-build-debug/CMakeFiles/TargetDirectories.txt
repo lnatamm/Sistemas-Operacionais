@@ -1,0 +1,3 @@
+D:/Codigos/C/WSClock/cmake-build-debug/CMakeFiles/WSClock.dir
+D:/Codigos/C/WSClock/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codigos/C/WSClock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
